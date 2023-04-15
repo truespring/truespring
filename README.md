@@ -1,8 +1,9 @@
 ## 👋 Gyuhwan Seok, Rubok
 
 ### Contact
-- ✉️ Email: truespring1@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/truespring/
+[<img src="https://simpleicons.org/icons/gmail.svg" width="5%"/>](mailto:truespring1@gmail.com)
+[<img src="https://simpleicons.org/icons/linkedin.svg" width="5%"/>](https://www.linkedin.com/in/truespring/)
+[<img src="https://simpleicons.org/icons/instagram.svg" width="5%"/>](https://www.instagram.com/_jjinssam/)
 - ★ Instargram: https://www.instagram.com/_jjinssam/
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=truespring&count_private=true&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/truespring)
